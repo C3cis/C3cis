@@ -16,27 +16,21 @@
 
 <br>
 
-<table>
-<tr>
-<td valign="top" width="76%">
-
 ### 🌸 whoami
+
+<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" align="right" width="80" hspace="28" vspace="10"/>
 
 Estudante de Engenharia de Software e desenvolvedora backend, focada em construir sistemas bem estruturados — da modelagem do banco à arquitetura da API. Atualmente desenvolvo um **LIMS (Laboratory Information Management System)** para um centro de pesquisa, aplicando MVC e migrando o backend para Go com MongoDB.
 
+<br/>
+
 Gosto de entender o *porquê* das decisões de arquitetura antes de escrever código, e trago essa mesma lógica para o front-end, priorizando componentes reutilizáveis e organização clara entre lógica reativa e estática.
 
-</td>
-<td width="6%"></td>
-<td valign="top" width="18%" align="center">
+<br clear="right"/>
 
-<img src="https://github.githubassets.com/images/icons/emoji/unicode/1f338.png" width="76"/>
+<div align="center">
 
-</td>
-</tr>
-</table>
-
-<table>
+<table width="90%">
 <tr>
 <td width="50%" valign="top">
 
@@ -57,11 +51,13 @@ Gosto de entender o *porquê* das decisões de arquitetura antes de escrever có
 </tr>
 </table>
 
+</div>
+
 <br>
 
-### 🌸 stack
+<div align="center">
 
-<table>
+<table width="90%">
 <tr><td valign="top" width="18%"><b>linguagens</b></td>
 <td>
 <img src="https://img.shields.io/badge/Java-F0D9E4?style=for-the-badge&logo=openjdk&logoColor=16131F" />
@@ -96,108 +92,40 @@ Gosto de entender o *porquê* das decisões de arquitetura antes de escrever có
 </td></tr>
 </table>
 
-<br>
-
-### 🌸 progresso
-
-<table>
-<tr><td width="220" valign="middle">Go + Gin</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg1" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="224" height="16" rx="8" fill="url(#pg1)"/>
-</svg>
-
-</td></tr>
-
-<tr><td valign="middle">Java / Spring Boot</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg2" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="208" height="16" rx="8" fill="url(#pg2)"/>
-</svg>
-
-</td></tr>
-
-<tr><td valign="middle">TypeScript / JavaScript</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg3" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="240" height="16" rx="8" fill="url(#pg3)"/>
-</svg>
-
-</td></tr>
-
-<tr><td valign="middle">Vue 3 / Nuxt</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg4" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="256" height="16" rx="8" fill="url(#pg4)"/>
-</svg>
-
-</td></tr>
-
-<tr><td valign="middle">MySQL / MongoDB</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg5" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="224" height="16" rx="8" fill="url(#pg5)"/>
-</svg>
-
-</td></tr>
-
-<tr><td valign="middle">Arquitetura de microsserviços</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg6" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="192" height="16" rx="8" fill="url(#pg6)"/>
-</svg>
-
-</td></tr>
-
-<tr><td valign="middle">Linux / DevOps</td><td valign="middle">
-
-<svg viewBox="0 0 320 16" width="100%" height="16" xmlns="http://www.w3.org/2000/svg">
-<defs><linearGradient id="pg7" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#F0D9E4"/><stop offset="100%" stop-color="#C1A0AC"/></linearGradient></defs>
-<rect width="320" height="16" rx="8" fill="#4A3F4B"/>
-<rect width="96" height="16" rx="8" fill="url(#pg7)"/>
-</svg>
-
-</td></tr>
-</table>
-
-<sub>* barras autodeclaradas, não geradas automaticamente pelo GitHub.</sub>
+</div>
 
 <br>
-
-### 🌸 stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&title_color=F0D9E4&icon_color=F0D9E4&text_color=C1A0AC&bg_color=16131F" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&title_color=F0D9E4&text_color=C1A0AC&bg_color=16131F" width="38%"/>
+<table width="90%">
+<tr><td width="220" valign="middle"><b>Go + Gin</b></td><td valign="middle"><img src="https://progress-bar.xyz/50/?width=480&color=F0D9E4&progress_color=F0D9E4&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>Java / Spring Boot</b></td><td valign="middle"><img src="https://progress-bar.xyz/70/?width=480&color=C1A0AC&progress_color=C1A0AC&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>TypeScript / JavaScript</b></td><td valign="middle"><img src="https://progress-bar.xyz/60/?width=480&color=806C79&progress_color=806C79&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>Vue 3</b></td><td valign="middle"><img src="https://progress-bar.xyz/85/?width=480&color=4A3F4B&progress_color=4A3F4B&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>HTML / CSS</b></td><td valign="middle"><img src="https://progress-bar.xyz/80/?width=480&color=F0D9E4&progress_color=F0D9E4&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>MySQL / MongoDB</b></td><td valign="middle"><img src="https://progress-bar.xyz/75/?width=480&color=C1A0AC&progress_color=C1A0AC&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>Arquitetura de microsserviços</b></td><td valign="middle"><img src="https://progress-bar.xyz/47/?width=480&color=806C79&progress_color=806C79&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td valign="middle"><b>Linux / DevOps</b></td><td valign="middle"><img src="https://progress-bar.xyz/40/?width=480&color=4A3F4B&progress_color=4A3F4B&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+</table>
 
-<br><br>
+</div>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=16131F&color=F0D9E4&line=C1A0AC&point=F0D9E4&hide_border=true&area=true&area_color=4A3F4B" width="95%"/>
+
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=C3cis&bg_color=16131F&color=F0D9E4&line=C1A0AC&point=F0D9E4&hide_border=true&area=true&area_color=4A3F4B" width="95%"/>
 
 </div>
 
 <br>
 
-### 🌸 contato
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F0D9E4?style=for-the-badge&logo=linkedin&logoColor=16131F" /></a>
-<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-C1A0AC?style=for-the-badge&logo=gmail&logoColor=16131F" /></a>
-<a href="https://github.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-806C79?style=for-the-badge&logo=github&logoColor=F0D9E4" /></a>
+<a href="www.linkedin.com/in/cecilia-russano-aponte-76769b367" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-F0D9E4?style=for-the-badge&logo=linkedin&logoColor=16131F" /></a>
+<a href="ceciliaponte0124@gmail.com"><img src="https://img.shields.io/badge/Email-C1A0AC?style=for-the-badge&logo=gmail&logoColor=16131F" /></a>
 
 </div>
 

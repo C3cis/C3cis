@@ -1,237 +1,167 @@
 <div align="center">
 
-<!-- ===================== BANNER PRINCIPAL ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=6,11,20&text=SYSTEM%20INITIALIZING...&fontColor=fff&fontSize=42&animation=fadeIn&fontAlignY=35&desc=Cecis%20//%20Dev%20Core%20Online&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20&text=Cecis&fontColor=fff&fontSize=46&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D8A7CA&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Inicializando+m%C3%B3dulo%3A+CECIS.exe;Carregando+stack%3A+Java+%7C+Go+%7C+JS+%7C+TS;Status%3A+Aprendendo+e+construindo+sistemas;Conectando+ao+banco+de+dados...+OK" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1200&color=B8A9C9&center=true&vCenter=true&width=560&lines=Backend+Developer+%7C+Software+Engineering+Student;Java+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+REST+APIs;Construindo+sistemas+com+arquitetura+MVC" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-ONLINE-BFD8B8?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/MODO-DEV%20%2B%20ESTUDOS-E8C4C4?style=for-the-badge&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/VERSÃO-2.0.26-C9B8E8?style=for-the-badge&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/status-em%20constru%C3%A7%C3%A3o-BFD8B8?style=flat-square&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/foco-backend%20%26%20arquitetura-D8A7CA?style=flat-square&labelColor=1a1b27" />
+<img src="https://img.shields.io/badge/localiza%C3%A7%C3%A3o-brasil-C9B8E8?style=flat-square&labelColor=1a1b27" />
 
 </div>
 
 <br>
 
-<!-- ===================== SOBRE MIM ===================== -->
-## `⌬` SOBRE_MIM.log
+## Sobre mim
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="320">
+Sou estudante de Engenharia de Software e desenvolvedora backend, focada em construir sistemas bem estruturados — da modelagem do banco à arquitetura da API. Atualmente desenvolvo um **LIMS (Laboratory Information Management System)** para um centro de pesquisa, aplicando MVC e migrando o backend para Go com MongoDB.
 
-```yaml
-sistema:
-  nome: "Cecis"
-  funcao: "Desenvolvedora Backend & Estudante de Engenharia de Software"
-  localizacao: "Brasil 🇧🇷"
-  foco_atual: "Arquitetura MVC, microsserviços e sistemas distribuídos"
-  
-descricao: >
-  Estudante e desenvolvedora apaixonada por construir sistemas
-  organizados, escaláveis e bem estruturados. Atualmente
-  desenvolvendo um LIMS (Laboratory Information Management System)
-  em Go, migrando de arquiteturas monolíticas para microsserviços.
-
-interesses:
-  - Arquitetura de software (MVC, microsserviços)
-  - Backend robusto e APIs REST
-  - Bancos de dados relacionais e não-relacionais
-  - UI/UX com foco em design limpo e funcional
-
-modo_estudo: true
-cafe_consumido: "∞"
-```
-
-<br clear="right"/>
-
-<!-- ===================== TERMINAL - OBJETIVOS ATUAIS ===================== -->
-## `⌬` OBJETIVOS_ATUAIS.sh
-
-```bash
-cecis@dev-machine:~$ cat objetivos.txt
-
-[✓] Migrar backend de MySQL para MongoDB
-[✓] Estruturar projeto Go seguindo padrão MVC
-[▓▓▓▓▓▓▓░░░] Dominar Go + Gin Framework          70%
-[▓▓▓▓▓▓░░░░] Aprender Docker e microsserviços     60%
-[▓▓▓▓▓▓▓▓░░] Aperfeiçoar arquitetura Vue/Nuxt     80%
-[▓▓▓░░░░░░░] Estudar DevOps / Linux / Sysadmin    30%
-
-cecis@dev-machine:~$ echo "Construindo o LIMS-CBPF 🔬"
-> Construindo o LIMS-CBPF 🔬
-
-cecis@dev-machine:~$ status --check
-> Sistema estável. Pronto para novos desafios. ✅
-```
-
-<br>
-
-<!-- ===================== TECH STACK ===================== -->
-## `⌬` TECH_STACK.json
-
-<div align="center">
-
-### 🧠 Linguagens
-<img src="https://img.shields.io/badge/Java-D8A7CA?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Go-BFD8B8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/JavaScript-E8C4C4?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/TypeScript-C9B8E8?style=for-the-badge&logo=typescript&logoColor=white&labelColor=1a1b27" />
-
-### ⚙️ Backend & Frameworks
-<img src="https://img.shields.io/badge/Spring_Boot-BFD8B8?style=for-the-badge&logo=springboot&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Gin-D8A7CA?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Node.js-E8C4C4?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/REST_APIs-C9B8E8?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b27" />
-
-### 🎨 Frontend & Estilização
-<img src="https://img.shields.io/badge/Nuxt-BFD8B8?style=for-the-badge&logo=nuxtdotjs&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Vue.js-D8A7CA?style=for-the-badge&logo=vuedotjs&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-E8C4C4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/CSS3-C9B8E8?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" />
-
-### 🗄️ Banco de Dados
-<img src="https://img.shields.io/badge/MySQL-BFD8B8?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/MongoDB-D8A7CA?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27" />
-
-### 🛠️ Ferramentas & Runtime
-<img src="https://img.shields.io/badge/Bun-E8C4C4?style=for-the-badge&logo=bun&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Git-C9B8E8?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Docker-BFD8B8?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Insomnia-D8A7CA?style=for-the-badge&logo=insomnia&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Linux-E8C4C4?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1b27" />
-
-### 🏗️ Arquitetura
-<img src="https://img.shields.io/badge/MVC-C9B8E8?style=for-the-badge&logo=graphql&logoColor=white&labelColor=1a1b27" />
-<img src="https://img.shields.io/badge/Microsserviços-BFD8B8?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1b27" />
-
-</div>
-
-<br>
-
-<!-- ===================== PROJETOS EM CARDS ===================== -->
-## `⌬` PROJETOS.db
-
-<div align="center">
+Gosto de entender o *porquê* das decisões de arquitetura antes de escrever código, e trago essa mesma lógica para o front-end, onde priorizo componentes reutilizáveis e organização clara entre lógica reativa e estática.
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔬 LIMS - CBPF
-```yaml
-tipo: Sistema de Gestão Laboratorial
-status: Em desenvolvimento
-stack: Go · Gin · MongoDB · Vue 3 · Nuxt 4
-descricao: >
-  Sistema completo para gerenciamento de 
-  equipamentos, funcionários, ordens de 
-  serviço e manutenções, com equipamentos 
-  como entidade central.
-arquitetura: MVC
-```
-<img src="https://img.shields.io/badge/status-active-BFD8B8?style=flat-square&labelColor=1a1b27" />
+**Atualmente**
+- 🔭 Desenvolvendo o backend do LIMS em Go
+- 🌱 Aprofundando conhecimento em Gin e MongoDB
+- 🏗️ Estudando arquitetura de microsserviços
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖥️ LIMS - Frontend
-```yaml
-tipo: Interface do Sistema LIMS
-status: Em desenvolvimento
-stack: Vue 3 · Nuxt 4 · Tailwind · TS
-descricao: >
-  Dashboard com cards dinâmicos, 
-  formulários reutilizáveis e 
-  design flat com paleta rosa/pastel.
-componentes: FormularioBase, CardPedidos
-```
-<img src="https://img.shields.io/badge/status-active-D8A7CA?style=flat-square&labelColor=1a1b27" />
+**Abordagem**
+- 📐 MVC como padrão de organização
+- 🧩 Componentização no front-end
+- 🗄️ SQL e NoSQL conforme o caso de uso
 
 </td>
 </tr>
 </table>
 
-</div>
-
-> 💡 *Substitua os projetos acima pelos seus repositórios reais — adicione links, GIFs ou prints quando quiser!*
-
 <br>
 
-<!-- ===================== GITHUB STATS ===================== -->
-## `⌬` ANALYTICS.exe
+## Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=D8A7CA&icon_color=BFD8B8&text_color=C9B8E8&bg_color=00000000" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=D8A7CA&text_color=C9B8E8&bg_color=00000000" width="42%"/>
-
+**Linguagens**
 <br>
+<img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=D8A7CA" />
+<img src="https://img.shields.io/badge/Go-1a1b27?style=for-the-badge&logo=go&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=E8C4C4" />
+<img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=C9B8E8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default&hide_border=true&background=00000000&ring=D8A7CA&fire=E8C4C4&currStreakLabel=C9B8E8" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=react-dark&hide_border=true&bg_color=00000000&color=C9B8E8&line=D8A7CA&point=E8C4C4" width="95%"/>
-
-</div>
-
+**Backend**
 <br>
+<img src="https://img.shields.io/badge/Spring_Boot-1a1b27?style=for-the-badge&logo=springboot&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/Gin-1a1b27?style=for-the-badge&logo=go&logoColor=D8A7CA" />
+<img src="https://img.shields.io/badge/Node.js-1a1b27?style=for-the-badge&logo=nodedotjs&logoColor=E8C4C4" />
+<img src="https://img.shields.io/badge/REST_APIs-1a1b27?style=for-the-badge&logo=fastapi&logoColor=C9B8E8" />
 
-<!-- ===================== TROPHIES ===================== -->
-## `⌬` CONQUISTAS.pkg
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=discord&no-frame=true&no-bg=true&margin-w=15&column=7" width="100%"/>
-</div>
-
+**Frontend**
 <br>
+<img src="https://img.shields.io/badge/Vue.js-1a1b27?style=for-the-badge&logo=vuedotjs&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/Nuxt-1a1b27?style=for-the-badge&logo=nuxtdotjs&logoColor=D8A7CA" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-1a1b27?style=for-the-badge&logo=tailwindcss&logoColor=E8C4C4" />
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
-## `⌬` CONTRIBUTIONS.map
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚙️ *Para ativar a animação da cobrinha, configure a GitHub Action* [`snk`](https://github.com/Platane/snk) *no seu repositório de perfil.*
-
+**Dados**
 <br>
+<img src="https://img.shields.io/badge/MySQL-1a1b27?style=for-the-badge&logo=mysql&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b27?style=for-the-badge&logo=mongodb&logoColor=D8A7CA" />
 
-<!-- ===================== REDES SOCIAIS ===================== -->
-## `⌬` CONTATO.connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-D8A7CA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" />
-</a>
-<a href="https://www.instagram.com/SEU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E8C4C4?style=for-the-badge&logo=instagram&logoColor=white&labelColor=1a1b27" />
-</a>
-<a href="mailto:seuemail@exemplo.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-C9B8E8?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" />
-</a>
-<a href="https://discord.com/users/SEU_USUARIO" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-BFD8B8?style=for-the-badge&logo=discord&logoColor=white&labelColor=1a1b27" />
-</a>
+**Ferramentas**
+<br>
+<img src="https://img.shields.io/badge/Git-1a1b27?style=for-the-badge&logo=git&logoColor=E8C4C4" />
+<img src="https://img.shields.io/badge/Bun-1a1b27?style=for-the-badge&logo=bun&logoColor=C9B8E8" />
+<img src="https://img.shields.io/badge/Linux-1a1b27?style=for-the-badge&logo=linux&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/Insomnia-1a1b27?style=for-the-badge&logo=insomnia&logoColor=D8A7CA" />
 
 </div>
 
 <br>
 
-<!-- ===================== RODAPÉ ===================== -->
-<div align="center">
+## Progresso atual
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=20,11,6&section=footer" width="100%"/>
+<table>
+<tr><td width="240">Go + Gin Framework</td><td>
 
-<sub>⌬ Sistema compilado com 💜 por Cecis · Última atualização: 2026 ⌬</sub>
+![](https://progress-bar.dev/70/?width=300&color=D8A7CA)
+
+</td></tr>
+<tr><td>Arquitetura de microsserviços</td><td>
+
+![](https://progress-bar.dev/60/?width=300&color=BFD8B8)
+
+</td></tr>
+<tr><td>Vue 3 / Nuxt avançado</td><td>
+
+![](https://progress-bar.dev/80/?width=300&color=E8C4C4)
+
+</td></tr>
+<tr><td>Linux / DevOps</td><td>
+
+![](https://progress-bar.dev/30/?width=300&color=C9B8E8)
+
+</td></tr>
+</table>
 
 <br>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visitantes&color=D8A7CA&style=flat-square)
+## Projetos
 
+<table>
+<tr>
+<td width="50%">
+<h3>LIMS · Backend</h3>
+<p>Sistema de gestão laboratorial para controle de equipamentos, funcionários, ordens de serviço e manutenções.</p>
+<img src="https://img.shields.io/badge/Go-1a1b27?style=flat-square&logo=go&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/Gin-1a1b27?style=flat-square&logo=go&logoColor=D8A7CA" />
+<img src="https://img.shields.io/badge/MongoDB-1a1b27?style=flat-square&logo=mongodb&logoColor=E8C4C4" />
+</td>
+<td width="50%">
+<h3>LIMS · Frontend</h3>
+<p>Dashboard e formulários dinâmicos para o sistema LIMS, com componentes reutilizáveis e design flat.</p>
+<img src="https://img.shields.io/badge/Vue_3-1a1b27?style=flat-square&logo=vuedotjs&logoColor=BFD8B8" />
+<img src="https://img.shields.io/badge/Nuxt_4-1a1b27?style=flat-square&logo=nuxtdotjs&logoColor=D8A7CA" />
+<img src="https://img.shields.io/badge/Tailwind-1a1b27?style=flat-square&logo=tailwindcss&logoColor=E8C4C4" />
+</td>
+</tr>
+</table>
+
+<p align="center"><i>Substitua pelos seus repositórios reais — adicione links quando publicar.</i></p>
+
+<br>
+
+## Estatísticas
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=transparent&hide_border=true&title_color=D8A7CA&icon_color=BFD8B8&text_color=888&bg_color=00000000" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=transparent&hide_border=true&title_color=D8A7CA&text_color=888&bg_color=00000000" width="38%"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=default&hide_border=true&background=00000000&ring=D8A7CA&fire=E8C4C4&currStreakLabel=C9B8E8&sideLabels=888&currStreakNum=888&sideNums=888" width="65%"/>
+
+</div>
+
+<br>
+
+## Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=D8A7CA" /></a>
+<a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=E8C4C4" /></a>
+<a href="https://github.com/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=C9B8E8" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+<sub>Cecis · atualizado em 2026</sub>
 </div>

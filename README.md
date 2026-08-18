@@ -99,7 +99,7 @@ Gosto de entender o *porquê* das decisões de arquitetura antes de escrever có
 <div align="center">
 
 <table width="90%">
-<tr><td width="220" valign="middle"><b>Go + Gin</b></td><td valign="middle"><img src="https://progress-bar.xyz/50/?width=480&color=F0D9E4&progress_color=F0D9E4&progress_background=16131F&show_text=false&style=flat" /></td></tr>
+<tr><td width="220" valign="middle"><b> Go + Gin</b></td><td valign="middle"><img src="https://progress-bar.xyz/50/?width=480&color=F0D9E4&progress_color=F0D9E4&progress_background=16131F&show_text=false&style=flat" /></td></tr>
 <tr><td valign="middle"><b>Java / Spring Boot</b></td><td valign="middle"><img src="https://progress-bar.xyz/70/?width=480&color=C1A0AC&progress_color=C1A0AC&progress_background=16131F&show_text=false&style=flat" /></td></tr>
 <tr><td valign="middle"><b>TypeScript / JavaScript</b></td><td valign="middle"><img src="https://progress-bar.xyz/60/?width=480&color=806C79&progress_color=806C79&progress_background=16131F&show_text=false&style=flat" /></td></tr>
 <tr><td valign="middle"><b>Vue 3</b></td><td valign="middle"><img src="https://progress-bar.xyz/85/?width=480&color=4A3F4B&progress_color=4A3F4B&progress_background=16131F&show_text=false&style=flat" /></td></tr>
